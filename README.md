@@ -43,18 +43,26 @@ five different classes and is a console-based application. When the system start
 prompted with user id and user pin. On entering the details successfully, then ATM functionalities
 are unlocked. The project allows to perform following operations:
   1.Transactions History
+  
   2.Withdraw
+  
   3.Deposit
+  
   4.Transfer
+  
   5.Quit
 
 For Demo Click
 # Task4: ONLINE EXAMINATION
 The project should be capable of the following functionalities.
   1.Login
+  
   2.Update Profile and Password
+  
   3.Selecting answers for MCQs
+  
   4.Timer and auto submit
+  
   5.Closing session and Logout
 # Task5: DIGITAL LIBRARY SYSTEM
  1.The main objective of this project is to provide a complete automated Library by digitizing its
@@ -64,7 +72,7 @@ The project should be capable of the following functionalities.
   maintaining every single detail of the Library. It has a very user friendly interface which can
   easily be operated by any non-technical person.
 
-      There are essentially two modules of this software;
+      There are essentially two modules of this software-
  
   1.Admin module: Admin will have complete control over the system. Admin has permissions to
     update, delete or modify any existing record or make a new entry (books and members). 
